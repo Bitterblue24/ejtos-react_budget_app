@@ -14,7 +14,7 @@ import ExpenseList from './components/ExpenseList';
 
 import ExpenseItem from './components/ExpenseItem';
 
-import AllocationForm from './components/AllocationForm'
+import AllocationForm from './components/AllocationForm';
 
 import { AppProvider } from './context/AppContext';
 const App = () => {

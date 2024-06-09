@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+#currency {
+    max-width: 500px;
+    background: #eaf4f4;
+    box-shadow: 0 8px 50px -8px rgba(0, 0, 0, 0.3);
+    padding: 16px;
+    border-radius: 8px;
+    margin: 32px auto;
+    font-family: "Roboto", sans-serif;
+  }
